@@ -2,6 +2,8 @@
 Specialization course offered by The Hong Kong University of Science and Technology via Coursera.
 
 1. HTML, CSS, JavaScript
+    This course will teach you the essential elements of web page development, covering HTML, CSS and JavaScript. 
+
 2. Front-End Web UI Frameworks and Tools
     
   This course provided an overview of client-side web frameworks, in particular Bootstrap. 
